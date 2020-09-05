@@ -1,5 +1,7 @@
 {
   "name": "TesteImpressora",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
